@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/veronicaminciuna/factor-real/issues"
   },
-  "homepage": "https://github.com/veronicaminciuna/factor-real#readme"
+  "homepage": "https://github.com/veronicaminciuna/factor-real#readme",
+  "dependencies": {
+    "morgan": "^1.10.0"
+  }
 }
